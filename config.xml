@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Quadwrangle</name>
+	<name>Starfleet Academy</name>
 
 	<description>
-		Quadwrangle alpha app
+		Keep in touch with all of your starfleet fellow alumns!
 	</description>
 
 	<author href="http://quadwrangle.com"
